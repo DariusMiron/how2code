@@ -1,3 +1,4 @@
+#266B
 line= input().split()
 n=int(line[0])
 t=int(line[1])
@@ -11,4 +12,3 @@ for _ in range(t):
             i += 1
         i += 1
 print("".join(line))
-#266B

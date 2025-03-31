@@ -1,3 +1,4 @@
+#32B
 n = input()
 i = 0
 result = ""
@@ -12,4 +13,3 @@ while i < len(n):
         result += "2"
         i += 2
 print(result)
-#32B

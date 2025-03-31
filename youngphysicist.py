@@ -1,3 +1,4 @@
+#69A
 n=int(input())
 x,y,z=0,0,0
 for _ in range(n):
@@ -12,4 +13,3 @@ if x==0 and y==0 and z==0:
     print("YES")
 else:
     print("NO")
-#69A
